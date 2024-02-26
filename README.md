@@ -1,4 +1,3 @@
-Sure, here's the README file with some basic styling:
 
 ```markdown
 # amountInWords Function
