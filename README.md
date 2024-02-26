@@ -15,6 +15,13 @@ const amount = 1533.25;
 console.log(amountInWords(amount)); // Output: "one thousand five hundred thirty three rupees and twenty five paise"
 ```
 
+````React
+import { amountInWords } from "inr-amount-in-words";
+
+const value = amountInWords(1152);
+console.log(value);
+```
+
 ## Parameters
 
 - `amount`: The numerical amount to be converted into words.
