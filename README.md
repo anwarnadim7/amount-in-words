@@ -1,4 +1,4 @@
-Here's a README file for the `amountInWords` function:
+Here's a README file for the `amountInWords`:
 
 ---
 
